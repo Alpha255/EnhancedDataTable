@@ -1,0 +1,30 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Enhanced Data Table",
+	"Description": "",
+	"Category": "Editor",
+	"CreatedBy": "SoSad255",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules":
+	[
+		{
+			"Name": "DataTableExporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "DataTableSearch",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
